@@ -70,7 +70,7 @@ with st.expander("About the Project 📑"):
     st.subheader("The Project")
     st.markdown("- This project is mainly focused on predicting the turnover intentions of frontned and backend developers")
     st.markdown("- Data is collected from 203 respondents.")
-    st.markdown("- Model is build on demograhic variables and on some likert scale variables.")
+    st.markdown("- Model is built on demograhic variables and on some likert scale variables.")
 
 #tabs to naviage
 tab1, tab2 = st.tabs(["Introduction 📊","Predictions 💻"])
